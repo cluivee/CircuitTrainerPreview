@@ -4,3 +4,4 @@ Android App that lets you create a circuit of exercises and will notify you when
 
 
 ![](workoutTimerLoop.gif) <!-- .element height="50%" width="50%" -->
+<img src="workoutTimerLoop" width="40%">.
